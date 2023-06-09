@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '9847'
     url: http://www.gutenberg.org/2009/agents/9847
     wikipedia: https://en.wikipedia.org/wiki/Lancelot_Speed
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Giberne, Agnes
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47772
     wikipedia: https://en.wikipedia.org/wiki/Agnes_Giberne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70873#Anthony-Cragg-s-tenant
 gutenberg_issued: '2023-05-27'
 identifiers:
   gutenberg: '70873'
